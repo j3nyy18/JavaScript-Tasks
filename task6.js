@@ -14,7 +14,7 @@ if (student){
     student_status = "Student";
 }
 else{
-    student_status = "Not Sudent";
+    student_status = "Not Student";
 }
 
 //DISPLAYING ALL THE DETAILS HERE:
